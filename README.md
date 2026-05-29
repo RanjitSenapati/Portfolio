@@ -8,8 +8,6 @@ A responsive personal portfolio website built with HTML, CSS, and JavaScript.
 - Projects
 - Contact
 
-## How to Run
-Just open `index.html` in your browser. No build tools needed.
 
 ## Tech Stack
 - HTML5
